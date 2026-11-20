@@ -1,4 +1,4 @@
-# Pratik Kumar Portfolio
+# Pratik Kumar
 
 Static portfolio website built with HTML, CSS, and JavaScript.
 
